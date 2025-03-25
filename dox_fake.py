@@ -9,7 +9,7 @@ from pyfiglet import Figlet
 import aiohttp
 
 # Данные из начала
-API_KEY = "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"
+API_KEY = "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"
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 # Список русских городов для генерации адресов
